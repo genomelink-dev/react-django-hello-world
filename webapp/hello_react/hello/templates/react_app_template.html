@@ -1,0 +1,13 @@
+<html>
+  <head>
+    {% load react_extras %}
+    <script src="{% react_url app_name %}"></script>
+  </head>
+  <body>
+    <div id="react-container" />
+    <script>
+      const props = {{ props | safe }};
+      renderApp(props);
+    </script>
+  </body>
+</html>

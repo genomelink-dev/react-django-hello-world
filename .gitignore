@@ -1,0 +1,5 @@
+frontend/node_modules
+
+webapp/venv
+webapp/static/js
+*__pycache__*
