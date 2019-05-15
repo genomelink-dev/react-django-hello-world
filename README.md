@@ -1,10 +1,22 @@
 # React and Django integration Hello World
 
-cd client
-yarn build
+Complimentary code for our talk at DjangoCongress JP 2019.
 
-cd server
+
+To run example application on `localhost:8000`:
+```
+cd webapp
 pip install -r requirements.txt
-python manage.py runserver 8002
+python manage.py runserver 8000
+```
 
-Go to localhost:8002
+![App screenshot](screenshot.jpg)
+
+
+To rebuild frontend code run:
+```
+cd frontend
+yarn install
+yarn build
+```
+Webpack will watch the Javascript source files and rebuild upon changes.
