@@ -10,7 +10,7 @@ pip install -r requirements.txt
 python manage.py runserver 8000
 ```
 
-![App screenshot](screenshot.jpg)
+![App screenshot](screenshot.png)
 
 
 To rebuild frontend code run:
