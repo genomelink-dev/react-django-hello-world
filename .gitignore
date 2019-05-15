@@ -1,6 +1,11 @@
 # frontend
 frontend/node_modules
 
+# Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # webapp
 webapp/venv
 webapp/static/js
