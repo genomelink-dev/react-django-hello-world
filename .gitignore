@@ -1,5 +1,13 @@
+# frontend
 frontend/node_modules
 
+# webapp
 webapp/venv
 webapp/static/js
+
+# python
 *__pycache__*
+*.py[cod]
+
+# Django
+db.sqlite3
