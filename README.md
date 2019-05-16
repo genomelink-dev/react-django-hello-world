@@ -12,6 +12,9 @@ python manage.py runserver 8000
 
 ![App screenshot](screenshot.png)
 
+![Dinocorn Image Credit](https://www.teepublic.com/t-shirt/2886691-unicorn-riding-on-dinosaur)
+
+
 
 To rebuild frontend code run:
 ```
