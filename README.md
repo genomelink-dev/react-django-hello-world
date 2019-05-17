@@ -1,6 +1,6 @@
 # React and Django integration Hello World
 
-Complimentary code for our talk at DjangoCongress JP 2019.
+Complimentary code for [our talk at DjangoCongress JP 2019](https://slides.com/awakens-dev/django-jp-2019).
 
 
 To run example application on `localhost:8000`:
